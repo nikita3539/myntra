@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container-fluid{
+    padding-left: 60px !important;
+}
+.carousel-item{
+    width: 100%;
+}
+.nav-item{
+    font-weight:bold !important;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+}
+.nav-item{
+    font-weight:bold !important;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+}
+.head_div {
+    color: #3e4152;
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 90px;
+    margin-bottom: 70px;
+    display: flex;
+    flex-wrap: wrap;
+     margin-left:  30px;
+    letter-spacing: 4px;
+}
+.bi{
+    font-size: 20px !important;
+}
+.nav-item{
+    font-size: 14px;
+    
+}
+.form-control{
+    padding-right: 180px !important;
+    
+}
+.navbar-nav{
+    margin-left: 30px !important;
+}
+
+
+.container_disct{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    justify-content: center;
+    width: 100%;
+    height: auto;
+}
+
+.carousel-control-next-icon{
+    background-color: rgb(222, 208, 208);
+}
+
+.carousel-control-prev-icon{
+    background-color: rgb(222, 208, 208);
+}
+
+.card{
+    border: none !important;
+}
+#card-group-9 {
+    width: 70% !important;
+    justify-content: center;
+    align-items: center;
+    margin-left: 250px;
+    display: flex;
+    background-color: rgb(142, 86, 17);
+    height: auto;
+    /* flex-wrap: wrap; */
+}
+#card-group-9  img{
+    height: 300px;
+    width: 300px;
+    /* background-color: aqua; */
+}
+
+.container{
+    margin-top: 40px;
+}
+.row {
+    width: 100%;
+
+}
+.col ul {color: gray;
+    text-align: left;
+    justify-content: left;
+    align-items: start;
+
+}
+.col ul h6{
+    font-size: 15px;
+   color: black;
+}
+.exp-img{
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+
+}
+.originalitem{
+    display: flex;
+    justify-content: center;
+    width: 250px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.col-12{
+    margin-bottom: 10px;
+    color: gray;
+   
+}
+.col-12 h6{
+    margin-top: 10px;
+    color: black;
+}

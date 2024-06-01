@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container-fluid{
+    padding-left: 60px !important;
+}
+.nav-item{
+    font-weight:bold !important;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+}
+.nav-item{
+    font-weight:bold !important;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+}
+.head_div {
+    color: #3e4152;
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 90px;
+    margin-bottom: 70px;
+    display: flex;
+    flex-wrap: wrap;
+     margin-left:  30px;
+    letter-spacing: 4px;
+}
+.bi{
+    font-size: 20px !important;
+}
+.nav-item{
+    font-size: 14px;
+    
+}
+.form-control{
+    padding-right: 180px !important;
+    
+}
+.navbar-nav{
+    margin-left: 30px !important;
+}
+.container-fluid-page img{
+    width: 100%;
+    padding-left: 60px;
+    padding-right: 60px;
+
+}
+.furniture{
+    display: inline-block;
+    /* flex-wrap: wrap;
+    flex-direction: row; */
+}
+.col-sm-8 h2{
+    color: #3e4152;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#id-furniture{
+    margin-bottom: 20px;
+}
+.col-sm-4 ul{
+    color: rgb(50, 49, 49);
+}
+.container-fluid-trend img{
+    width: 100%;
+}
+.card{
+    border:0px !important ;
+}
+.container-fluid-brands{
+    margin-top: 70px;
+}
+.container-fluid-brands h1{
+    letter-spacing: 2px;
+    margin-bottom: 50px;
+}
+.container{
+    margin-top: 100px;
+}
